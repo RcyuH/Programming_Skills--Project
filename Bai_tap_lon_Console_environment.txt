@@ -1,0 +1,24 @@
+    ---Hay nhap he so cho da thuc f(x)! (Chuc nang 1)---
+Nhap bac cua da thuc f(x): 5
+a5 = 1
+a4 = 2
+a3 = 3
+a2 = 4
+a1 = 5
+a0 = 6
+    ---Hay nhap so chu so thap phan sau dau phay! (Chuc nang 2)---
+Nhap so chu so thap phan can lam tron den: 9
+       Thuc hien chuc nang 3:
+Cac khoang phan ly nghiem tim duoc la: (-2.137763371, -1.327390600) 
+       Thuc hien chuc nang 4:
+Mot khoang phan ly nghiem (mac dinh la khoang dau tien lay tu chuc nang 1) sau chuan hoa la: (-1.732576986, -1.327390600) 
+       Thuc hien chuc nang 5:
+Nhap so lan lap: 5
+x (da lam tron) = -1.491403261
+Sai so theo cach 1: 0.001963117
+Sai so theo cach 2: 0.000632197
+       Thuc hien chuc nang 5:
+Nhap so lan lap: 9
+x (da lam tron) = -1.491795074
+Sai so theo cach 1: 0.000014507
+Sai so theo cach 2: 0.000004670
